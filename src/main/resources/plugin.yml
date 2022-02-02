@@ -1,0 +1,7 @@
+name: MapImages
+version: '${project.version}'
+main: me.kodysimpson.mapimages.MapImages
+api-version: 1.17
+commands:
+  testmap:
+    description: what the actual fack
